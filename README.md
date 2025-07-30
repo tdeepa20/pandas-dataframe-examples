@@ -8,10 +8,10 @@ The notebook `Dataframe_examples.ipynb` covers:
 
 -  What is a DataFrame?
 -  Creating DataFrames using:
-  - Lists
-  - Dictionaries
-  - Series
-  - NumPy arrays
+     - Lists
+     - Dictionaries
+     - Series
+     - NumPy arrays
 - Customizing row and column labels
 - Accessing and modifying data using `.at[]`, `.iat[]`, slicing, and indexing
 - Viewing structural information using DataFrame attributes
